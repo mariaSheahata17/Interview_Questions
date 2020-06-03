@@ -7,3 +7,4 @@ Easy:
 3. Valid Palindrome
 4. Valid Anagram
 5. Valid Parentheses
+6. Roman to Integer
