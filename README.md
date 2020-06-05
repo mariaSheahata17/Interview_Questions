@@ -9,3 +9,4 @@ Easy:
 5. Valid Parentheses
 6. Roman to Integer
 7. Merge Two Sorted Lists
+8. Majority Element
