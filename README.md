@@ -13,5 +13,5 @@ Easy:
 9. Linked List Cycle
 10. Isomorphic Strings
 11. Intersection of Two Linked Lists
-12. Implement_strStr()
+12. Longest Common Prefix
 
