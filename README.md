@@ -1,6 +1,6 @@
 # Interview_Questions from leetcode
 
-Easy:
+Easy questions:
 
 1. Rotate Array
 2. Implement_strStr()
@@ -14,4 +14,7 @@ Easy:
 10. Isomorphic Strings
 11. Intersection of Two Linked Lists
 12. Longest Common Prefix
+
+Medium questions:
+
 
