@@ -13,6 +13,7 @@ Easy questions:
 10. Isomorphic Strings
 11. Intersection of Two Linked Lists
 12. Longest Common Prefix
+13. Jewels and Stones
 
 Medium questions:
 1. Container With Most Water
