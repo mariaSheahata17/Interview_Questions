@@ -15,6 +15,7 @@ Easy questions:
 12. Longest Common Prefix
 13. Jewels and Stones
 14. Binary Tree Level Order Traversal
+15. Minimum Depth of Binary Tree
 
 Medium questions:
 1. Container With Most Water
