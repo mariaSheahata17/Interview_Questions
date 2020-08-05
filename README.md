@@ -1,4 +1,4 @@
-# Interview_Questions from leetcode
+# Leetcode Questions  
 
 Easy questions:
 1. Rotate Array
