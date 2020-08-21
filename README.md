@@ -1,6 +1,6 @@
 # Leetcode Questions  
 
-Easy questions:
+### Easy questions:
 
 1. Rotate Array
 2. Implement_strStr()
@@ -21,7 +21,7 @@ Easy questions:
 
 
 
-Medium questions:
+### Medium questions:
 
 1. Container With Most Water
 2. Letter Combinations of a Phone Number
@@ -30,6 +30,6 @@ Medium questions:
 5. Binary Tree Right Side View
 
 
-Hard questions:
+### Hard questions:
 
 
