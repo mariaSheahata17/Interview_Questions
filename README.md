@@ -24,6 +24,7 @@ Medium questions:
 2. Letter Combinations of a Phone Number
 3. Sum of Left Leaves
 4. set matrix to zeros
+5. Binary Tree Right Side View
 
 
 Hard questions:
