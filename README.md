@@ -1,4 +1,4 @@
-# Leetcode Questions  
+# :rocket: Leetcode Questions  
 
 ### Easy questions:
 
